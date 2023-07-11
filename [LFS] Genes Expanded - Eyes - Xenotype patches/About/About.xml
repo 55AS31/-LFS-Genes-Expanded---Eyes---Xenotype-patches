@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[LFS] Genes Expanded - Eyes - Xenotype patches</name>
+    <author>ÁS</author>
+    <description>Xenotypes with eyes!</description>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <packageId>AS.GenesExpandedEyesPatches</packageId>
+    <modDependencies>
+        <li>
+            <packageId>LazyFridayStudio.GenesExpandedEyes</packageId>
+            <displayName>[LFS] Genes Expanded - Eyes</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2922457045</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Biotech</li>
+        <li>brrainz.harmony</li>
+		<li>LazyFridayStudio.GenesExpandedEyes<li>
+    </loadAfter>
+</ModMetaData>
